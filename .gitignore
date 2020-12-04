@@ -1,4 +1,5 @@
 input*.bib
+input*.txt
 .vscode
 
 # Byte-compiled / optimized / DLL files
