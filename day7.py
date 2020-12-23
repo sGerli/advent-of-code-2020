@@ -72,4 +72,5 @@ def recursiveCount(rules: dict, currentRule: str):
     return count
 
 
+challenge1()
 challenge2()
