@@ -1,5 +1,4 @@
 import sys
-import re
 
 def openFile():
     return open(sys.argv[1], "r")
